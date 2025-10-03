@@ -9,3 +9,5 @@ Check it out [here](https://buildsgordon.github.io/WeatherWebsite/).
 **Features**
 - Weather up to 14 days
 - Has basic statistics (Temp,Humidity, RainChance, UV, Description)
+
+I am open to suggestions, please email any questions.
