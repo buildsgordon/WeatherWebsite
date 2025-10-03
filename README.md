@@ -2,7 +2,7 @@
 A lightweight user-friendly weather website that is packaged in a single HTML file.
 Check it out [here](https://buildsgordon.github.io/WeatherWebsite/Index.html).
 
-**Purpose:** Allow users to view the weather on their PC without ads or other nonsense.
+**Purpose:** Most weather sites are bloated with ads, pop-ups, and distracting news feeds. This one only has the forecast, clean and simple.
 
 **Instructions:** Simply download the index.html file and view the weather.
 
