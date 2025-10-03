@@ -13,3 +13,6 @@ Check it out [here](https://buildsgordon.github.io/WeatherWebsite/Index.html).
 - Has temperature in Celsius and Fahrenheit
 
 I am open to suggestions, please email any questions.
+
+
+NOTE: If you are viewing a location that is not your current coutry (or using a VPN), international time differences may make the program off by one day.
