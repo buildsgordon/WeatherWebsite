@@ -4,5 +4,8 @@ Check it out [here](https://buildsgordon.github.io/WeatherWebsite/).
 
 **Purpose:** Allow users to view the weather on their PC without ads or other nonsense.
 
-
 **Instructions:** Simply download the index.html file and view the weather.
+
+**Features**
+- Weather up to 14 days
+- Has basic statistics (Temp,Humidity, RainChance, UV, Description)
